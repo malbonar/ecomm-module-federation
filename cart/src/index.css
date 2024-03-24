@@ -1,0 +1,14 @@
+.cart-container {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 1rem;
+    background-color: aliceblue;
+    padding: 2rem;
+    border-radius: 5px;
+    flex-wrap: wrap;
+}
+
+.cart-feedback {
+    font-size: 2rem;
+}

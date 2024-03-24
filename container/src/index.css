@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+}
+
+html {
+    font-size: 62.5%; /* so we can use rem i.e 1rem = default font size so 1 rem = 10px */
+}
+
+.header {
+    margin: 3rem;
+    color: #333;
+}
+
+.store-header {
+    font-size: 4rem;    
+    text-shadow: 2px 2px #EEEEEE;
+}
+
+.section-header {
+    font-size: 2.5rem;
+    text-shadow: 1px 1px #EEEEEE;
+}
+
+#product-list {
+    font-size: 2rem;
+    position: relative;
+    margin: 3rem;
+}
